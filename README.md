@@ -1,4 +1,4 @@
 ## Freedom Wheel
 
-https://github.com/hollyqueen/hollyqueen.github.io/freedom.html
+https://github.com/hollyqueen/hollyqueen.github.io/blob/main/freedom.html
 
