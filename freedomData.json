@@ -1,0 +1,14 @@
+[
+  {
+    "ID": "share_vuln_slice",
+    "NAME": "I share my vulnerability",
+    "VICTIM_OPP1_ID": "def_possess_slice",
+    "VICTIM_OPP1_NAME": "Defense (Possessiveness)"
+  },
+  {
+    "ID": "Test_2_slice",
+    "NAME": "Test 2 Slice",
+    "VICTIM_OPP1_ID": "def_possess_slice",
+    "VICTIM_OPP1_NAME": "Defense (Possessiveness)"
+  }
+]
