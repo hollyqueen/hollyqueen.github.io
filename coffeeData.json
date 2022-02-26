@@ -1,18 +1,8 @@
 {
-  "meta":{
-    "maxDepth": 3,
-    "name": "SCAA 2016",
-    "type": "coffee",
-    "faults": false,
-    "author": "SCAA",
-    "date": "2016",
-    "languages": ["en", "ru"],
-    "source": "http://www.scaa.org/?page=resources&d=scaa-flavor-wheel",
-    "notes": ["It is not truly global. It is not finished"]
-  },
-  "data":
-[
-  {
+	"Status": "Success",
+	"Message": "Success loading data",
+	"Data": 
+  [{
     "name": "Fruity",
     "name_ru": "Фруктовый",
     "colour": "#DA1D23",
