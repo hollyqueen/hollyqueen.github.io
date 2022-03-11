@@ -1,226 +1,290 @@
 [
   {
-    "ID": 1,
-	"INSTINCT": "Identity",
-	"SIBLING": "{2,3,4,17,18,19,20}",
-	"BEHAVIOR": "Disclosure",
-	"TEXT": "I share my vulnerability"
+    "id": 1,
+	"instinct": "Identity",
+	"sibling": "{2,3,4,17,18,19,20}",
+	"behavior": "Disclosure",
+	"text": "I Share My Vulnerability"
+	"description": "Description of what this spoke means."
+	"color": "#e5e5e5"
   },
   {
-    "ID": 2,
-	"INSTINCT": "Identity",
-	"SIBLING": "{1,3,4,17,18,19,20}",
-	"BEHAVIOR": "Disclosure",
-	"TEXT": "I express my feelings"
+    "id": 2,
+	"instinct": "Identity",
+	"sibling": "{1,3,4,17,18,19,20}",
+	"behavior": "Disclosure",
+	"text": "I Express My Feelings"
+	"description": "Description of what this spoke means."
+	"color": "#ccc"
   },
   {
-    "ID": 3,
-	"INSTINCT": "Identity",
-	"SIBLING": "{1,2,4,17,18,19,20}",
-	"BEHAVIOR": "Disclosure",
-	"TEXT": "I risk taking action"
+    "id": 3,
+	"instinct": "Identity",
+	"sibling": "{1,2,4,17,18,19,20}",
+	"behavior": "Disclosure",
+	"text": "I Risk Taking Action"
+	"description": "Description of what this spoke means."
+	"color": "#b2b2b2"
   },
   {
-    "ID": 4,
-	"INSTINCT": "Identity",
-	"SIBLING": "{1,2,3,17,18,19,20}",
-	"BEHAVIOR": "Disclosure",
-	"TEXT": "I share my ideas, questions"
+    "id": 4,
+	"instinct": "Identity",
+	"sibling": "{1,2,3,17,18,19,20}",
+	"behavior": "Disclosure",
+	"text": "I Share My Ideas, Questions"
+	"description": "Description of what this spoke means."
+	"color": "#999"
   },
   {
-    "ID": 5,
-	"INSTINCT": "Committment",
-	"SIBLING": "{6,7,8,21,22,23,24}",
-	"BEHAVIOR": "Creativity",
-	"TEXT": "Insight, wisdom"
+    "id": 5,
+	"instinct": "Committment",
+	"sibling": "{6,7,8,21,22,23,24}",
+	"behavior": "Creativity",
+	"text": "Insight, Wisdom"
+	"description": "Description of what this spoke means."
+	"color": "#c399ff"
   },
   {
-    "ID": 6,
-	"INSTINCT": "Committment",
-	"SIBLING": "{5,7,8,21,22,23,24}",
-	"BEHAVIOR": "Creativity",
-	"TEXT": "Opening alternatives"
+    "id": 6,
+	"instinct": "Committment",
+	"sibling": "{5,7,8,21,22,23,24}",
+	"behavior": "Creativity",
+	"text": "Opening Alternatives"
+	"description": "Description of what this spoke means."
+	"color": "#b480ff"
   },
   {
-    "ID": 7,
-	"INSTINCT": "Committment",
-	"SIBLING": "{5,6,8,21,22,23,24}",
-	"BEHAVIOR": "Creativity",
-	"TEXT": "Relaxation, vitality"
+    "id": 7,
+	"instinct": "Committment",
+	"sibling": "{5,6,8,21,22,23,24}",
+	"behavior": "Creativity",
+	"text": "Relaxation, Vitality"
+	"description": "Description of what this spoke means."
+	"color": "#a566ff"
   },
   {
-    "ID": 8,
-	"INSTINCT": "Committment",
-	"SIBLING": "{5,6,7,21,22,23,24}",
-	"BEHAVIOR": "Creativity",
-	"TEXT": "Curiosity, spontaneity"
+    "id": 8,
+	"instinct": "Committment",
+	"sibling": "{5,6,7,21,22,23,24}",
+	"behavior": "Creativity",
+	"text": "Curiosity, Spontaneity"
+	"description": "Description of what this spoke means."
+	"color": "#964dff"
   },
   {
-    "ID": 9,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{10,11,12,25,26,27,28}",
-	"BEHAVIOR": "Trust",
-	"TEXT": "Accepting success, praise"
+    "id": 9,
+	"instinct": "Gratification",
+	"sibling": "{10,11,12,25,26,27,28}",
+	"behavior": "Trust",
+	"text": "Accepting Success, Praise"
+	"description": "Description of what this spoke means."
+	"color": "#99d6ff"
   },
     {
-    "ID": 10,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{9,11,12,25,26,27,28}",
-	"BEHAVIOR": "Trust",
-	"TEXT": "Accepting involvement"
+    "id": 10,
+	"instinct": "Gratification",
+	"sibling": "{9,11,12,25,26,27,28}",
+	"behavior": "Trust",
+	"text": "Accepting Involvement"
+	"description": "Description of what this spoke means."
+	"color": "#80ccff"
   },
   {
-    "ID": 11,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{9,10,12,25,26,27,28}",
-	"BEHAVIOR": "Trust",
-	"TEXT": "Accepting tenderness"
+    "id": 11,
+	"instinct": "Gratification",
+	"sibling": "{9,10,12,25,26,27,28}",
+	"behavior": "Trust",
+	"text": "Accepting tenderness"
+	"description": "Description of what this spoke means."
+	"color": "#66c1ff"
   },
   {
-    "ID": 12,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{9,10,11,25,26,27,28}",
-	"BEHAVIOR": "Trust",
-	"TEXT": "Accepting companionship"
+    "id": 12,
+	"instinct": "Gratification",
+	"sibling": "{9,10,11,25,26,27,28}",
+	"behavior": "Trust",
+	"text": "Accepting Companionship"
+	"description": "Description of what this spoke means."
+	"color": "#4db7ff"
   },
   {
-    "ID": 13,
-	"INSTINCT": "Survival",
-	"SIBLING": "{14,15,16,29,30,31,32}",
-	"BEHAVIOR": "Integrity",
-	"TEXT": "Feeling my anger, fear"
+    "id": 13,
+	"instinct": "Survival",
+	"sibling": "{14,15,16,29,30,31,32}",
+	"behavior": "Integrity",
+	"text": "Feeling My Anger, Fear"
+	"description": "Description of what this spoke means."
+	"color": "#bdfff7"
   },
   {
-    "ID": 14,
-	"INSTINCT": "Survival",
-	"SIBLING": "{13,15,16,29,30,31,32}",
-	"BEHAVIOR": "Integrity",
-	"TEXT": "Feeling my pain, grief"
+    "id": 14,
+	"instinct": "Survival",
+	"sibling": "{13,15,16,29,30,31,32}",
+	"behavior": "Integrity",
+	"text": "Feeling My Pain, Grief"
+	"description": "Description of what this spoke means."
+	"color": "#99fff3"
   },
   {
-    "ID": 15,
-	"INSTINCT": "Survival",
-	"SIBLING": "{13,14,16,29,30,31,32}",
-	"BEHAVIOR": "Integrity",
-	"TEXT": "Feeling my power"
+    "id": 15,
+	"instinct": "Survival",
+	"sibling": "{13,14,16,29,30,31,32}",
+	"behavior": "Integrity",
+	"text": "Feeling My Power"
+	"description": "Description of what this spoke means."
+	"color": "#75ffef"
   },
   {
-    "ID": 16,
-	"INSTINCT": "Survival",
-	"SIBLING": "{13,14,15,29,30,31,32}",
-	"BEHAVIOR": "Integrity",
-	"TEXT": "Feeling my satisfaction"
+    "id": 16,
+	"instinct": "Survival",
+	"sibling": "{13,14,15,29,30,31,32}",
+	"behavior": "Integrity",
+	"text": "Feeling My Satisfaction"
+	"description": "Description of what this spoke means."
+	"color": "#52ffeb"
   },
   {
-    "ID": 17,
-	"INSTINCT": "Identity",
-	"SIBLING": "{1,2,3,4,18,19,20}",
-	"BEHAVIOR": "Acceptance",
-	"TEXT": "Unconditional love"
+    "id": 17,
+	"instinct": "Identity",
+	"sibling": "{1,2,3,4,18,19,20}",
+	"behavior": "Acceptance",
+	"text": "Unconditional Love"
+	"description": "Description of what this spoke means."
+	"color": "#e5e5e5"
   },
   {
-    "ID": 18,
-	"INSTINCT": "Identity",
-	"SIBLING": "{1,2,3,4,17,19,20}",
-	"BEHAVIOR": "Acceptance",
-	"TEXT": "Compassion"
+    "id": 18,
+	"instinct": "Identity",
+	"sibling": "{1,2,3,4,17,19,20}",
+	"behavior": "Acceptance",
+	"text": "Compassion"
+	"description": "Description of what this spoke means."
+	"color": "#ccc"
   },
   {
-    "ID": 19,
-	"INSTINCT": "Identity",
-	"SIBLING": "{1,2,3,4,17,18,20}",
-	"BEHAVIOR": "Acceptance",
-	"TEXT": "Identification"
+    "id": 19,
+	"instinct": "Identity",
+	"sibling": "{1,2,3,4,17,18,20}",
+	"behavior": "Acceptance",
+	"text": "Identification"
+	"description": "Description of what this spoke means."
+	"color": #b2b2b2
   },
   {
-    "ID": 20,
-	"INSTINCT": "Identity",
-	"SIBLING": "{1,2,3,4,17,18,19}",
-	"BEHAVIOR": "Acceptance",
-	"TEXT": "Welcoming input"
+    "id": 20,
+	"instinct": "Identity",
+	"sibling": "{1,2,3,4,17,18,19}",
+	"behavior": "Acceptance",
+	"text": "Welcoming Input"
+	"description": "Description of what this spoke means."
+	"color": "#999"
   },
   {
-    "ID": 21,
-	"INSTINCT": "Committment",
-	"SIBLING": "{1,2,3,4,22,23,24}",
-	"BEHAVIOR": "Stucture",
-	"TEXT": "Creating continuity, duration"
+    "id": 21,
+	"instinct": "Committment",
+	"sibling": "{1,2,3,4,22,23,24}",
+	"behavior": "Stucture",
+	"text": "Creating Continuity, Duration"
+	"description": "Description of what this spoke means."
+	"color": "#c399ff"
   },
   {
-    "ID": 22,
-	"INSTINCT": "Committment",
-	"SIBLING": "{1,2,3,4,21,23,24}",
-	"BEHAVIOR": "Stucture",
-	"TEXT": "Establishing values, limits"
+    "id": 22,
+	"instinct": "Committment",
+	"sibling": "{1,2,3,4,21,23,24}",
+	"behavior": "Stucture",
+	"text": "Establishing Values, Limits"
+	"description": "Description of what this spoke means."
+	"color": "#b480ff"
   },
   {
-    "ID": 23,
-	"INSTINCT": "Committment",
-	"SIBLING": "{1,2,3,4,21,22,24}",
-	"BEHAVIOR": "Stucture",
-	"TEXT": "Ways to nourish & heal"
+    "id": 23,
+	"instinct": "Committment",
+	"sibling": "{1,2,3,4,21,22,24}",
+	"behavior": "Stucture",
+	"text": "Ways To Nourish & Heal"
+	"description": "Description of what this spoke means."
+	"color": "#a566ff"
   },
   {
-    "ID": 24,
-	"INSTINCT": "Committment",
-	"SIBLING": "{1,2,3,4,21,22,23}",
-	"BEHAVIOR": "Stucture",
-	"TEXT": "Procedures for doing"
+    "id": 24,
+	"instinct": "Committment",
+	"sibling": "{1,2,3,4,21,22,23}",
+	"behavior": "Stucture",
+	"text": "Procedures For Doing"
+	"description": "Description of what this spoke means."
+	"color": "#964dff"
   },
   {
-    "ID": 25,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{1,2,3,4,26,27,28}",
-	"BEHAVIOR": "Support",
-	"TEXT": "Experiencing acknowledgement"
+    "id": 25,
+	"instinct": "Gratification",
+	"sibling": "{1,2,3,4,26,27,28}",
+	"behavior": "Support",
+	"text": "Experiencing Acknowledgement"
+	"description": "Description of what this spoke means."
+	"color": "#99d6ff"
   },
   {
-    "ID": 26,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{1,2,3,4,25,27,28}",
-	"BEHAVIOR": "Support",
-	"TEXT": "Experiencing respect"
+    "id": 26,
+	"instinct": "Gratification",
+	"sibling": "{1,2,3,4,25,27,28}",
+	"behavior": "Support",
+	"text": "Experiencing Respect"
+	"description": "Description of what this spoke means."
+	"color": "#80ccff"
   },
   {
-    "ID": 27,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{1,2,3,4,25,26,28}",
-	"BEHAVIOR": "Support",
-	"TEXT": "Experiencing affection"
+    "id": 27,
+	"instinct": "Gratification",
+	"sibling": "{1,2,3,4,25,26,28}",
+	"behavior": "Support",
+	"text": "Experiencing Affection"
+	"description": "Description of what this spoke means."
+	"color": "#66c1ff"
   },
   {
-    "ID": 28,
-	"INSTINCT": "Gratification",
-	"SIBLING": "{1,2,3,4,25,26,27}",
-	"BEHAVIOR": "Support",
-	"TEXT": "Experiencing inclusion"
+    "id": 28,
+	"instinct": "Gratification",
+	"sibling": "{1,2,3,4,25,26,27}",
+	"behavior": "Support",
+	"text": "Experiencing Inclusion"
+	"description": "Description of what this spoke means."
+	"color": "#4db7ff"
   },
   {
-    "ID": 29,
-	"INSTINCT": "Survival",
-	"SIBLING": "{1,2,3,4,30,31,32}",
-	"BEHAVIOR": "Assertiveness",
-	"TEXT": "I say no"
+    "id": 29,
+	"instinct": "Survival",
+	"sibling": "{1,2,3,4,30,31,32}",
+	"behavior": "Assertiveness",
+	"text": "I Say No"
+	"description": "Description of what this spoke means."
+	"color": "#bdfff7"
   },
     {
-    "ID": 30,
-	"INSTINCT": "Survival",
-	"SIBLING": "{1,2,3,4,29,31,32}",
-	"BEHAVIOR": "Assertiveness",
-	"TEXT": "I state my wants"
+    "id": 30,
+	"instinct": "Survival",
+	"sibling": "{1,2,3,4,29,31,32}",
+	"behavior": "Assertiveness",
+	"text": "I State My Wants"
+	"description": "Description of what this spoke means."
+	"color": "#99fff3"
   },
     {
-    "ID": 31,
-	"INSTINCT": "Survival",
-	"SIBLING": "{1,2,3,4,29,30,32}",
-	"BEHAVIOR": "Assertiveness",
-	"TEXT": "I express preferences"
+    "id": 31,
+	"instinct": "Survival",
+	"sibling": "{1,2,3,4,29,30,32}",
+	"behavior": "Assertiveness",
+	"text": "I Express Preferences"
+	"description": "Description of what this spoke means."
+	"color": "#75ffef"
   },
     {
-    "ID": 32,
-	"INSTINCT": "Survival",
-	"SIBLING": "{1,2,3,4,29,30,31}",
-	"BEHAVIOR": "Assertiveness",
-	"TEXT": "I affirm"
+    "id": 32,
+	"instinct": "Survival",
+	"sibling": "{1,2,3,4,29,30,31}",
+	"behavior": "Assertiveness",
+	"text": "I Affirm"
+	"description": "Description of what this spoke means."
+	"color": "#52ffeb"
   }
 ]
