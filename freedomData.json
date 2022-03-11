@@ -168,7 +168,7 @@
 	"behavior": "Acceptance",
 	"text": "Identification"
 	"description": "Description of what this spoke means."
-	"color": #b2b2b2
+	"color": "#b2b2b2"
   },
   {
     "id": 20,
