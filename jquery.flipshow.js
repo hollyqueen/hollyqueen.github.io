@@ -8,7 +8,7 @@
  * Copyright 2013, Codrops
  * http://www.codrops.com
  */
-;( function( $, window, undefined ) {
+$(function (){
 
 	'use strict';
 
@@ -360,4 +360,4 @@
 		return this;
 	};
 
-} )( jQuery, window );
+});
