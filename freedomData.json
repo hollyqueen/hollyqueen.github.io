@@ -2,7 +2,7 @@
   [
     "id": "1",
 	"instinct": "Identity",
-	"sibling": "[2,3,4,17,18,19,20]",
+	"sibling": [2,3,4,17,18,19,20],
 	"behavior": "Disclosure",
 	"text": "I Share My Vulnerability",
 	"description": "Long form description of what this spoke means.",
@@ -11,7 +11,7 @@
   [
     "id": "2",
 	"instinct": "Identity",
-	"sibling": "[1,3,4,17,18,19,20]",
+	"sibling": [1,3,4,17,18,19,20],
 	"behavior": "Disclosure",
 	"text": "I Express My Feelings",
 	"description": "Long form description of what this spoke means.",
@@ -20,7 +20,7 @@
   [
     "id": "3",
 	"instinct": "Identity",
-	"sibling": "[1,2,4,17,18,19,20]",
+	"sibling": [1,2,4,17,18,19,20],
 	"behavior": "Disclosure",
 	"text": "I Risk Taking Action",
 	"description": "Long form description of what this spoke means.",
@@ -29,7 +29,7 @@
   [
     "id": 4,
 	"instinct": "Identity",
-	"sibling": "[1,2,3,17,18,19,20]",
+	"sibling": [1,2,3,17,18,19,20],
 	"behavior": "Disclosure",
 	"text": "I Share My Ideas, Questions",
 	"description": "Long form description of what this spoke means.",
@@ -38,7 +38,7 @@
   [
     "id": 5,
 	"instinct": "Committment",
-	"sibling": "[6,7,8,21,22,23,24]",
+	"sibling": [6,7,8,21,22,23,24],
 	"behavior": "Creativity",
 	"text": "Insight, Wisdom",
 	"description": "Long form description of what this spoke means.",
@@ -47,7 +47,7 @@
   [
     "id": 6,
 	"instinct": "Committment",
-	"sibling": "[5,7,8,21,22,23,24]",
+	"sibling": [5,7,8,21,22,23,24],
 	"behavior": "Creativity",
 	"text": "Opening Alternatives",
 	"description": "Long form description of what this spoke means.",
@@ -56,7 +56,7 @@
   [
     "id": 7,
 	"instinct": "Committment",
-	"sibling": "[5,6,8,21,22,23,24]",
+	"sibling": [5,6,8,21,22,23,24],
 	"behavior": "Creativity",
 	"text": "Relaxation, Vitality",
 	"description": "Long form description of what this spoke means.",
@@ -65,7 +65,7 @@
   [
     "id": 8,
 	"instinct": "Committment",
-	"sibling": "[5,6,7,21,22,23,24]",
+	"sibling": [5,6,7,21,22,23,24],
 	"behavior": "Creativity",
 	"text": "Curiosity, Spontaneity",
 	"description": "Long form description of what this spoke means.",
@@ -74,7 +74,7 @@
   [
     "id": 9,
 	"instinct": "Gratification",
-	"sibling": "[10,11,12,25,26,27,28]",
+	"sibling": [10,11,12,25,26,27,28],
 	"behavior": "Trust",
 	"text": "Accepting Success, Praise",
 	"description": "Long form description of what this spoke means.",
@@ -83,7 +83,7 @@
     [
     "id": 10,
 	"instinct": "Gratification",
-	"sibling": "[9,11,12,25,26,27,28]",
+	"sibling": [9,11,12,25,26,27,28],
 	"behavior": "Trust",
 	"text": "Accepting Involvement",
 	"description": "Long form description of what this spoke means.",
@@ -92,7 +92,7 @@
   [
     "id": 11,
 	"instinct": "Gratification",
-	"sibling": "[9,10,12,25,26,27,28]",
+	"sibling": [9,10,12,25,26,27,28],
 	"behavior": "Trust",
 	"text": "Accepting tenderness",
 	"description": "Long form description of what this spoke means.",
@@ -101,7 +101,7 @@
   [
     "id": 12,
 	"instinct": "Gratification",
-	"sibling": "[9,10,11,25,26,27,28]",
+	"sibling": [9,10,11,25,26,27,28],
 	"behavior": "Trust",
 	"text": "Accepting Companionship",
 	"description": "Long form description of what this spoke means.",
@@ -110,7 +110,7 @@
   [
     "id": 13,
 	"instinct": "Survival",
-	"sibling": "[14,15,16,29,30,31,32]",
+	"sibling": [14,15,16,29,30,31,32],
 	"behavior": "Integrity",
 	"text": "Feeling My Anger, Fear",
 	"description": "Long form description of what this spoke means.",
@@ -119,7 +119,7 @@
   [
     "id": 14,
 	"instinct": "Survival",
-	"sibling": "[13,15,16,29,30,31,32]",
+	"sibling": [13,15,16,29,30,31,32],
 	"behavior": "Integrity",
 	"text": "Feeling My Pain, Grief",
 	"description": "Long form description of what this spoke means.",
@@ -128,7 +128,7 @@
   [
     "id": 15,
 	"instinct": "Survival",
-	"sibling": "[13,14,16,29,30,31,32]",
+	"sibling": [13,14,16,29,30,31,32],
 	"behavior": "Integrity",
 	"text": "Feeling My Power",
 	"description": "Long form description of what this spoke means.",
@@ -137,7 +137,7 @@
   [
     "id": 16,
 	"instinct": "Survival",
-	"sibling": "[13,14,15,29,30,31,32]",
+	"sibling": [13,14,15,29,30,31,32],
 	"behavior": "Integrity",
 	"text": "Feeling My Satisfaction",
 	"description": "Long form description of what this spoke means.",
@@ -146,7 +146,7 @@
   [
     "id": 17,
 	"instinct": "Identity",
-	"sibling": "[1,2,3,4,18,19,20]",
+	"sibling": [1,2,3,4,18,19,20],
 	"behavior": "Acceptance",
 	"text": "Unconditional Love",
 	"description": "Long form description of what this spoke means.",
@@ -155,7 +155,7 @@
   [
     "id": 18,
 	"instinct": "Identity",
-	"sibling": "[1,2,3,4,17,19,20]",
+	"sibling": [1,2,3,4,17,19,20],
 	"behavior": "Acceptance",
 	"text": "Compassion",
 	"description": "Long form description of what this spoke means.",
@@ -164,7 +164,7 @@
   [
     "id": 19,
 	"instinct": "Identity",
-	"sibling": "[1,2,3,4,17,18,20]",
+	"sibling": [1,2,3,4,17,18,20],
 	"behavior": "Acceptance",
 	"text": "Identification",
 	"description": "Long form description of what this spoke means.",
@@ -173,7 +173,7 @@
   [
     "id": 20,
 	"instinct": "Identity",
-	"sibling": "[1,2,3,4,17,18,19]",
+	"sibling": [1,2,3,4,17,18,19],
 	"behavior": "Acceptance",
 	"text": "Welcoming Input",
 	"description": "Long form description of what this spoke means.",
@@ -182,7 +182,7 @@
   [
     "id": 21,
 	"instinct": "Committment",
-	"sibling": "[1,2,3,4,22,23,24]",
+	"sibling": [1,2,3,4,22,23,24],
 	"behavior": "Stucture",
 	"text": "Creating Continuity, Duration",
 	"description": "Long form description of what this spoke means.",
@@ -191,7 +191,7 @@
   [
     "id": 22,
 	"instinct": "Committment",
-	"sibling": "[1,2,3,4,21,23,24]",
+	"sibling": [1,2,3,4,21,23,24],
 	"behavior": "Stucture",
 	"text": "Establishing Values, Limits",
 	"description": "Long form description of what this spoke means.",
@@ -200,7 +200,7 @@
   [
     "id": 23,
 	"instinct": "Committment",
-	"sibling": "[1,2,3,4,21,22,24]",
+	"sibling": [1,2,3,4,21,22,24],
 	"behavior": "Stucture",
 	"text": "Ways To Nourish & Heal",
 	"description": "Long form description of what this spoke means.",
@@ -209,7 +209,7 @@
   [
     "id": 24,
 	"instinct": "Committment",
-	"sibling": "[1,2,3,4,21,22,23]",
+	"sibling": [1,2,3,4,21,22,23],
 	"behavior": "Stucture",
 	"text": "Procedures For Doing",
 	"description": "Long form description of what this spoke means.",
@@ -218,7 +218,7 @@
   [
     "id": 25,
 	"instinct": "Gratification",
-	"sibling": "[1,2,3,4,26,27,28]",
+	"sibling": [1,2,3,4,26,27,28],
 	"behavior": "Support",
 	"text": "Experiencing Acknowledgement",
 	"description": "Long form description of what this spoke means.",
@@ -227,7 +227,7 @@
   [
     "id": 26,
 	"instinct": "Gratification",
-	"sibling": "[1,2,3,4,25,27,28]",
+	"sibling": [1,2,3,4,25,27,28],
 	"behavior": "Support",
 	"text": "Experiencing Respect",
 	"description": "Long form description of what this spoke means.",
@@ -236,7 +236,7 @@
   [
     "id": 27,
 	"instinct": "Gratification",
-	"sibling": "[1,2,3,4,25,26,28]",
+	"sibling": [1,2,3,4,25,26,28],
 	"behavior": "Support",
 	"text": "Experiencing Affection",
 	"description": "Long form description of what this spoke means.",
@@ -245,7 +245,7 @@
   [
     "id": 28,
 	"instinct": "Gratification",
-	"sibling": "[1,2,3,4,25,26,27]",
+	"sibling": [1,2,3,4,25,26,27],
 	"behavior": "Support",
 	"text": "Experiencing Inclusion",
 	"description": "Long form description of what this spoke means.",
@@ -254,7 +254,7 @@
   [
     "id": 29,
 	"instinct": "Survival",
-	"sibling": "[1,2,3,4,30,31,32]",
+	"sibling": [1,2,3,4,30,31,32],
 	"behavior": "Assertiveness",
 	"text": "I Say No",
 	"description": "Long form description of what this spoke means.",
@@ -263,7 +263,7 @@
     [
     "id": 30,
 	"instinct": "Survival",
-	"sibling": "[1,2,3,4,29,31,32]",
+	"sibling": [1,2,3,4,29,31,32],
 	"behavior": "Assertiveness",
 	"text": "I State My Wants",
 	"description": "Long form description of what this spoke means.",
@@ -272,7 +272,7 @@
     [
     "id": 31,
 	"instinct": "Survival",
-	"sibling": "[1,2,3,4,29,30,32]",
+	"sibling": [1,2,3,4,29,30,32],
 	"behavior": "Assertiveness",
 	"text": "I Express Preferences",
 	"description": "Long form description of what this spoke means.",
@@ -281,7 +281,7 @@
     [
     "id": 32,
 	"instinct": "Survival",
-	"sibling": "[1,2,3,4,29,30,31]",
+	"sibling": [1,2,3,4,29,30,31],
 	"behavior": "Assertiveness",
 	"text": "I Affirm",
 	"description": "Long form description of what this spoke means.",
