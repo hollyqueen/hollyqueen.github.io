@@ -4,7 +4,7 @@
 	"instinct": "Identity",
 	"sibling": [2,3,4,17,18,19,20],
 	"behavior": "Disclosure",
-	"text": "I Share My Vulnerability",
+	"spokeText": "I Share My Vulnerability",
 	"description": "Long form description of what this spoke means.",
 	"color": "#e5e5e5"
   },
@@ -13,7 +13,7 @@
 	"instinct": "Identity",
 	"sibling": "[1,3,4,17,18,19,20]",
 	"behavior": "Disclosure",
-	"text": "I Express My Feelings",
+	"spokeText": "I Express My Feelings",
 	"description": "Long form description of what this spoke means.",
 	"color": "#ccc"
   },
@@ -22,7 +22,7 @@
 	"instinct": "Identity",
 	"sibling": "[1,2,4,17,18,19,20]",
 	"behavior": "Disclosure",
-	"text": "I Risk Taking Action",
+	"spokeText": "I Risk Taking Action",
 	"description": "Long form description of what this spoke means.",
 	"color": "#b2b2b2"
   },
@@ -31,7 +31,7 @@
 	"instinct": "Identity",
 	"sibling": "[1,2,3,17,18,19,20]",
 	"behavior": "Disclosure",
-	"text": "I Share My Ideas, Questions",
+	"spokeText": "I Share My Ideas, Questions",
 	"description": "Long form description of what this spoke means.",
 	"color": "#999"
   },
@@ -40,7 +40,7 @@
 	"instinct": "Committment",
 	"sibling": "[6,7,8,21,22,23,24]",
 	"behavior": "Creativity",
-	"text": "Insight, Wisdom",
+	"spokeText": "Insight, Wisdom",
 	"description": "Long form description of what this spoke means.",
 	"color": "#c399ff"
   },
@@ -49,7 +49,7 @@
 	"instinct": "Committment",
 	"sibling": "[5,7,8,21,22,23,24]",
 	"behavior": "Creativity",
-	"text": "Opening Alternatives",
+	"spokeText": "Opening Alternatives",
 	"description": "Long form description of what this spoke means.",
 	"color": "#b480ff"
   },
@@ -58,7 +58,7 @@
 	"instinct": "Committment",
 	"sibling": "[5,6,8,21,22,23,24]",
 	"behavior": "Creativity",
-	"text": "Relaxation, Vitality",
+	"spokeText": "Relaxation, Vitality",
 	"description": "Long form description of what this spoke means.",
 	"color": "#a566ff"
   },
@@ -67,7 +67,7 @@
 	"instinct": "Committment",
 	"sibling": "[5,6,7,21,22,23,24]",
 	"behavior": "Creativity",
-	"text": "Curiosity, Spontaneity",
+	"spokeText": "Curiosity, Spontaneity",
 	"description": "Long form description of what this spoke means.",
 	"color": "#964dff"
   },
@@ -76,7 +76,7 @@
 	"instinct": "Gratification",
 	"sibling": "[10,11,12,25,26,27,28]",
 	"behavior": "Trust",
-	"text": "Accepting Success, Praise",
+	"spokeText": "Accepting Success, Praise",
 	"description": "Long form description of what this spoke means.",
 	"color": "#99d6ff"
   },
@@ -85,7 +85,7 @@
 	"instinct": "Gratification",
 	"sibling": "[9,11,12,25,26,27,28]",
 	"behavior": "Trust",
-	"text": "Accepting Involvement",
+	"spokeText": "Accepting Involvement",
 	"description": "Long form description of what this spoke means.",
 	"color": "#80ccff"
   },
@@ -94,7 +94,7 @@
 	"instinct": "Gratification",
 	"sibling": "[9,10,12,25,26,27,28]",
 	"behavior": "Trust",
-	"text": "Accepting tenderness",
+	"spokeText": "Accepting tenderness",
 	"description": "Long form description of what this spoke means.",
 	"color": "#66c1ff"
   },
@@ -103,7 +103,7 @@
 	"instinct": "Gratification",
 	"sibling": "[9,10,11,25,26,27,28]",
 	"behavior": "Trust",
-	"text": "Accepting Companionship",
+	"spokeText": "Accepting Companionship",
 	"description": "Long form description of what this spoke means.",
 	"color": "#4db7ff"
   },
@@ -112,7 +112,7 @@
 	"instinct": "Survival",
 	"sibling": "[14,15,16,29,30,31,32]",
 	"behavior": "Integrity",
-	"text": "Feeling My Anger, Fear",
+	"spokeText": "Feeling My Anger, Fear",
 	"description": "Long form description of what this spoke means.",
 	"color": "#bdfff7"
   },
@@ -121,7 +121,7 @@
 	"instinct": "Survival",
 	"sibling": "[13,15,16,29,30,31,32]",
 	"behavior": "Integrity",
-	"text": "Feeling My Pain, Grief",
+	"spokeText": "Feeling My Pain, Grief",
 	"description": "Long form description of what this spoke means.",
 	"color": "#99fff3"
   },
@@ -130,7 +130,7 @@
 	"instinct": "Survival",
 	"sibling": "[13,14,16,29,30,31,32]",
 	"behavior": "Integrity",
-	"text": "Feeling My Power",
+	"spokeText": "Feeling My Power",
 	"description": "Long form description of what this spoke means.",
 	"color": "#75ffef"
   },
@@ -139,7 +139,7 @@
 	"instinct": "Survival",
 	"sibling": "[13,14,15,29,30,31,32]",
 	"behavior": "Integrity",
-	"text": "Feeling My Satisfaction",
+	"spokeText": "Feeling My Satisfaction",
 	"description": "Long form description of what this spoke means.",
 	"color": "#52ffeb"
   },
@@ -148,7 +148,7 @@
 	"instinct": "Identity",
 	"sibling": "[18,19,20,1,2,3,4]",
 	"behavior": "Acceptance",
-	"text": "Unconditional Love",
+	"spokeText": "Unconditional Love",
 	"description": "Long form description of what this spoke means.",
 	"color": "#e5e5e5"
   },
@@ -157,7 +157,7 @@
 	"instinct": "Identity",
 	"sibling": "[17,19,20,1,2,3,4]",
 	"behavior": "Acceptance",
-	"text": "Compassion",
+	"spokeText": "Compassion",
 	"description": "Long form description of what this spoke means.",
 	"color": "#ccc"
   },
@@ -166,7 +166,7 @@
 	"instinct": "Identity",
 	"sibling": "[17,18,20,1,2,3,4]",
 	"behavior": "Acceptance",
-	"text": "Identification",
+	"spokeText": "Identification",
 	"description": "Long form description of what this spoke means.",
 	"color": "#b2b2b2"
   },
@@ -175,7 +175,7 @@
 	"instinct": "Identity",
 	"sibling": "[17,18,19,1,2,3,4]",
 	"behavior": "Acceptance",
-	"text": "Welcoming Input",
+	"spokeText": "Welcoming Input",
 	"description": "Long form description of what this spoke means.",
 	"color": "#999"
   },
@@ -184,7 +184,7 @@
 	"instinct": "Committment",
 	"sibling": "[22,23,24,5,6,7,8]",
 	"behavior": "Stucture",
-	"text": "Creating Continuity, Duration",
+	"spokeText": "Creating Continuity, Duration",
 	"description": "Long form description of what this spoke means.",
 	"color": "#c399ff"
   },
@@ -193,7 +193,7 @@
 	"instinct": "Committment",
 	"sibling": "[21,23,24,5,6,7,8]",
 	"behavior": "Stucture",
-	"text": "Establishing Values, Limits",
+	"spokeText": "Establishing Values, Limits",
 	"description": "Long form description of what this spoke means.",
 	"color": "#b480ff"
   },
@@ -202,7 +202,7 @@
 	"instinct": "Committment",
 	"sibling": "[21,22,24,5,6,7,8]",
 	"behavior": "Stucture",
-	"text": "Ways To Nourish & Heal",
+	"spokeText": "Ways To Nourish & Heal",
 	"description": "Long form description of what this spoke means.",
 	"color": "#a566ff"
   },
@@ -211,7 +211,7 @@
 	"instinct": "Committment",
 	"sibling": "[21,22,23,5,6,7,8]",
 	"behavior": "Stucture",
-	"text": "Procedures For Doing",
+	"spokeText": "Procedures For Doing",
 	"description": "Long form description of what this spoke means.",
 	"color": "#964dff"
   },
@@ -220,7 +220,7 @@
 	"instinct": "Gratification",
 	"sibling": "[26,27,28,9,10,11,12]",
 	"behavior": "Support",
-	"text": "Experiencing Acknowledgement",
+	"spokeText": "Experiencing Acknowledgement",
 	"description": "Long form description of what this spoke means.",
 	"color": "#99d6ff"
   },
@@ -229,7 +229,7 @@
 	"instinct": "Gratification",
 	"sibling": "[25,27,28,9,10,11,12]",
 	"behavior": "Support",
-	"text": "Experiencing Respect",
+	"spokeText": "Experiencing Respect",
 	"description": "Long form description of what this spoke means.",
 	"color": "#80ccff"
   },
@@ -238,7 +238,7 @@
 	"instinct": "Gratification",
 	"sibling": "[25,26,28,9,10,11,12]",
 	"behavior": "Support",
-	"text": "Experiencing Affection",
+	"spokeText": "Experiencing Affection",
 	"description": "Long form description of what this spoke means.",
 	"color": "#66c1ff"
   },
@@ -247,7 +247,7 @@
 	"instinct": "Gratification",
 	"sibling": "[25,26,27,9,10,11,12]",
 	"behavior": "Support",
-	"text": "Experiencing Inclusion",
+	"spokeText": "Experiencing Inclusion",
 	"description": "Long form description of what this spoke means.",
 	"color": "#4db7ff"
   },
@@ -256,7 +256,7 @@
 	"instinct": "Survival",
 	"sibling": "[30,31,32,13,14,15,16]",
 	"behavior": "Assertiveness",
-	"text": "I Say No",
+	"spokeText": "I Say No",
 	"description": "Long form description of what this spoke means.",
 	"color": "#bdfff7"
   },
@@ -265,7 +265,7 @@
 	"instinct": "Survival",
 	"sibling": "[29,31,32,13,14,15,16]",
 	"behavior": "Assertiveness",
-	"text": "I State My Wants",
+	"spokeText": "I State My Wants",
 	"description": "Long form description of what this spoke means.",
 	"color": "#99fff3"
   },
@@ -274,7 +274,7 @@
 	"instinct": "Survival",
 	"sibling": "[29,30,32,13,14,15,16]",
 	"behavior": "Assertiveness",
-	"text": "I Express Preferences",
+	"spokeText": "I Express Preferences",
 	"description": "Long form description of what this spoke means.",
 	"color": "#75ffef"
   },
@@ -283,7 +283,7 @@
 	"instinct": "Survival",
 	"sibling": "[29,30,31,13,14,15,16]",
 	"behavior": "Assertiveness",
-	"text": "I Affirm",
+	"spokeText": "I Affirm",
 	"description": "Long form description of what this spoke means.",
 	"color": "#52ffeb"
   }
