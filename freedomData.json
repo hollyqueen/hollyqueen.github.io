@@ -2,7 +2,7 @@
   {
     "id": "1",
 	"instinct": "Identity",
-	"sibling": [2,3,4,17,18,19,20],
+	"sibling": "[2,3,4,17,18,19,20]",
 	"behavior": "Disclosure",
 	"spokeTxt": "I Share My Vulnerability",
 	"description": "Long form description of what this spoke means.",
