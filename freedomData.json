@@ -155,7 +155,7 @@
   {
     "id": 18,
 	"instinct": "Identity",
-	"sibling": "[17,19,20,1,2,3,4]",
+	"sibling": ["17","19","20","1","2","3","4"],
 	"behavior": "Acceptance",
 	"spokeTxt": "Compassion",
 	"description": "Long form description of what this spoke means.",
@@ -164,7 +164,7 @@
   {
     "id": 19,
 	"instinct": "Identity",
-	"sibling": "[17,18,20,1,2,3,4]",
+	"sibling": ["17","18","20","1","2","3","4"],
 	"behavior": "Acceptance",
 	"spokeTxt": "Identification",
 	"description": "Long form description of what this spoke means.",
@@ -173,7 +173,7 @@
   {
     "id": 20,
 	"instinct": "Identity",
-	"sibling": "[17,18,19,1,2,3,4]",
+	"sibling": ["17","18","19","1","2","3","4"],
 	"behavior": "Acceptance",
 	"spokeTxt": "Welcoming Input",
 	"description": "Long form description of what this spoke means.",
@@ -182,7 +182,7 @@
   {
     "id": 21,
 	"instinct": "Committment",
-	"sibling": "[22,23,24,5,6,7,8]",
+	"sibling": ["22","23","24","5","6","7","8"],
 	"behavior": "Stucture",
 	"spokeTxt": "Creating Continuity, Duration",
 	"description": "Long form description of what this spoke means.",
@@ -191,7 +191,7 @@
   {
     "id": 22,
 	"instinct": "Committment",
-	"sibling": "[21,23,24,5,6,7,8]",
+	"sibling": ["21","23","24","5","6","7","8"],
 	"behavior": "Stucture",
 	"spokeTxt": "Establishing Values, Limits",
 	"description": "Long form description of what this spoke means.",
@@ -200,7 +200,7 @@
   {
     "id": 23,
 	"instinct": "Committment",
-	"sibling": "[21,22,24,5,6,7,8]",
+	"sibling": ["21","22","24","5","6","7","8"],
 	"behavior": "Stucture",
 	"spokeTxt": "Ways To Nourish & Heal",
 	"description": "Long form description of what this spoke means.",
@@ -209,7 +209,7 @@
   {
     "id": 24,
 	"instinct": "Committment",
-	"sibling": "[21,22,23,5,6,7,8]",
+	"sibling": ["21","22","23","5","6","7","8"],
 	"behavior": "Stucture",
 	"spokeTxt": "Procedures For Doing",
 	"description": "Long form description of what this spoke means.",
@@ -218,7 +218,7 @@
   {
     "id": 25,
 	"instinct": "Gratification",
-	"sibling": "[26,27,28,9,10,11,12]",
+	"sibling": ["26","27","28","9","10","11","12"],
 	"behavior": "Support",
 	"spokeTxt": "Experiencing Acknowledgement",
 	"description": "Long form description of what this spoke means.",
@@ -227,7 +227,7 @@
   {
     "id": 26,
 	"instinct": "Gratification",
-	"sibling": "[25,27,28,9,10,11,12]",
+	"sibling": ["25","27","28","9","10","11","12"],
 	"behavior": "Support",
 	"spokeTxt": "Experiencing Respect",
 	"description": "Long form description of what this spoke means.",
@@ -236,7 +236,7 @@
   {
     "id": 27,
 	"instinct": "Gratification",
-	"sibling": "[25,26,28,9,10,11,12]",
+	"sibling": ["25","26","28","9","10","11","12"],
 	"behavior": "Support",
 	"spokeTxt": "Experiencing Affection",
 	"description": "Long form description of what this spoke means.",
@@ -245,7 +245,7 @@
   {
     "id": 28,
 	"instinct": "Gratification",
-	"sibling": "[25,26,27,9,10,11,12]",
+	"sibling": ["25","26","27","9","10","11","12"],
 	"behavior": "Support",
 	"spokeTxt": "Experiencing Inclusion",
 	"description": "Long form description of what this spoke means.",
@@ -254,7 +254,7 @@
   {
     "id": 29,
 	"instinct": "Survival",
-	"sibling": "[30,31,32,13,14,15,16]",
+	"sibling": ["30","31","32","13","14","15","16"],
 	"behavior": "Assertiveness",
 	"spokeTxt": "I Say No",
 	"description": "Long form description of what this spoke means.",
@@ -263,7 +263,7 @@
     {
     "id": 30,
 	"instinct": "Survival",
-	"sibling": "[29,31,32,13,14,15,16]",
+	"sibling": ["29","31","32","13","14","15","16"],
 	"behavior": "Assertiveness",
 	"spokeTxt": "I State My Wants",
 	"description": "Long form description of what this spoke means.",
@@ -272,7 +272,7 @@
     {
     "id": 31,
 	"instinct": "Survival",
-	"sibling": "[29,30,32,13,14,15,16]",
+	"sibling": ["29","30","32","13","14","15","16"],
 	"behavior": "Assertiveness",
 	"spokeTxt": "I Express Preferences",
 	"description": "Long form description of what this spoke means.",
@@ -281,7 +281,7 @@
     {
     "id": 32,
 	"instinct": "Survival",
-	"sibling": "[29,30,31,13,14,15,16]",
+	"sibling": ["29","30","31","13","14","15","16"],
 	"behavior": "Assertiveness",
 	"spokeTxt": "I Affirm",
 	"description": "Long form description of what this spoke means.",
