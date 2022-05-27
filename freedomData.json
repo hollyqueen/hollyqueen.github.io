@@ -92,7 +92,7 @@
   {
     "id": 11,
 	"instinct": "Gratification",
-	"sibling": ["9","10","12","25","26","27","28"]
+	"sibling": ["9","10","12","25","26","27","28"],
 	"behavior": "Trust",
 	"spokeTxt": "Accepting tenderness",
 	"description": "Long form description of what this spoke means.",
